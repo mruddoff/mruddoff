@@ -2,10 +2,12 @@
 
 ### Plans
 
-- [ ] Write wiki [Useful Info](https://github.com/mruddoff/UsefulInfo) for yourself.
 - [ ] Write a backend for [Hodwini](https://github.com/Hodwini) website.
-- [ ] Make a website for writing&reading user's story's [WRUS](https://github.com/mruddoff). 
-- [ ] Make a website with manga reading [NiManga](https://github.com/NiManga-Developers).
+- [ ] Write wiki [Useful Info](https://github.com/mruddoff/UsefulInfo) for yourself.
+- [ ] Write 1C application for managing my life [Diary](https://github.com/mruddoff).
+- [ ] Make website with manga reading [NiManga](https://github.com/NiManga-Developers).
+- [ ] Make website for writing&reading user's story's [WRUS](https://github.com/mruddoff).
+- [ ] Re-write discord bot [SleepyBot](https://github.com/mruddoff/SleepyBot) for support several guilds, as well as to make the website for a more pleasant and convenient bot management.
 
 
 <!--
